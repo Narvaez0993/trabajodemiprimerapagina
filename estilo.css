@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://www.radiocantilo.com/wp-content/uploads/2018/03/top-5-jazz-musicians-you-need-to-listen.png);
+    background-attachment: fixed;
+}
+p{
+    font-size: 30px;
+    color:#fff
+    
+}
+hr{color:#fff;
+    size:50;
+   
+    
+
+}
+div{
+    background-color:#2E2E2E ;
+    width: 75%;
+    border: 5px solid black;
+}
+h1{color:yellow;
+}
